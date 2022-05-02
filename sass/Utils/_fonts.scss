@@ -1,0 +1,25 @@
+/*FONTS*/
+@mixin roboto-400 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+@mixin roboto-500 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+@mixin roboto-700 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+@mixin roboto-900 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+@mixin shrikhand-400 {
+    font-family: 'Shrikhand', cursive;
+    font-weight: 400;
+}

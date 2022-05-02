@@ -1,0 +1,14 @@
+{
+  "name": "cryoflow",
+  "version": "1.0.0",
+  "description": "Cryoflow Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "author": "Nanahki64",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
